@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-archives-of-the-empire-vol2-homebrew",
+    "title": "WFRP4e - Archives of the Empire Vol. 2 - Homebrew",
+    "description": "Archives of the Empire Vol. 2 - Homebrew",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-archives-of-the-empire-vol2-homebrew",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-archives-of-the-empire-vol2-homebrew/releases/download/1.0.0/module.json"
+}
